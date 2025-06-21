@@ -1,20 +1,20 @@
-Qual operador representa OU lógico?
+Qual operador representa OU logico?
 A) &&
 B) ||
 C) !
 D) &
 RESPOSTA:B
 
-Como se chama um laço que sempre executa pelo menos uma vez?
+Como se chama um laco que sempre executa pelo menos uma vez?
 A) for
 B) do-while
 C) while
 D) if
 RESPOSTA:B
 
-O que é um Enum em C?
+O que e um Enum em C?
 A) Um comando que encerra um programa imediatamente.
-B) Um tipo de laço de repetição com condição no final.
-C) É um mapeamento de valores inteiros
+B) Um tipo de laco de repeticao com condicao no final.
+C) E um mapeamento de valores inteiros
 D) Um operador que compara dois valores diferentes.
 RESPOSTA:C
