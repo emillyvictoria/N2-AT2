@@ -1,9 +1,4 @@
-# Jogo de Perguntas de Algoritmos em C
 
-## Descrição do Projeto
-
-Este projeto consiste em um jogo de perguntas e respostas sobre programação em linguagem C, voltado para fins educacionais. O objetivo é testar o conhecimento do jogador por meio de perguntas de múltipla escolha, com dificuldade progressiva por nível.
-﻿
 # Jogo de Perguntas de Algoritmos em C
 
 ## Descrição do Projeto
