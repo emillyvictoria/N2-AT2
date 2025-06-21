@@ -1,18 +1,18 @@
 Qual o significado de Union em C?
-A) Uma função que une dois arrays em um só
-B) É um tipo que pode representar dados de tipos diferentes
-C) Uma biblioteca externa para unir variáveis
-D) Um operador lógico utilizado para unir condições
+A) Uma funcao que une dois arrays em um so
+B) E um tipo que pode representar dados de tipos diferentes
+C) Uma biblioteca externa para unir variaveis
+D) Um operador logico utilizado para unir condicoes
 RESPOSTA:B
 
-Qual é o valor padrão de uma variável não inicializada?
+Qual e o valor padrao de uma variavel nao inicializada?
 A) 0
 B) 1
 C) indefinido
 D) null
 RESPOSTA:C
 
-Qual comando serve para ler um valor do usuário?
+Qual comando serve para ler um valor do usuario?
 A) printf
 B) scanf
 C) gets
