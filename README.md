@@ -1,12 +1,12 @@
 # Jogo de Perguntas de Algoritmos em C
 
-## 📘 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste em um jogo de perguntas e respostas sobre programação em linguagem C, voltado para fins educacionais. O objetivo é testar o conhecimento do jogador por meio de perguntas de múltipla escolha, com dificuldade progressiva por nível.
 ﻿
 # Jogo de Perguntas de Algoritmos em C
 
-## 📘 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste em um jogo de perguntas e respostas sobre programação em linguagem C, voltado para fins educacionais. O objetivo é testar o conhecimento do jogador por meio de perguntas de múltipla escolha, com dificuldade progressiva por nível.
 
@@ -14,7 +14,7 @@ As perguntas são carregadas dinamicamente a partir de arquivos de texto, e o pr
 
 ---
 
-## 🎯 Objetivos Técnicos
+## Objetivos Técnicos
 
 - Praticar alocação dinâmica de memória
 - Utilizar `struct`, `enum` e `union` (conceito aplicado com struct e enum)
@@ -24,7 +24,7 @@ As perguntas são carregadas dinamicamente a partir de arquivos de texto, e o pr
 
 ---
 
-## 📂 Estrutura dos Arquivos
+## Estrutura dos Arquivos
 
 O programa espera encontrar os seguintes arquivos no mesmo diretório do executável:
 
@@ -44,7 +44,7 @@ B) Alternativa B
 RESPOSTA:C
 ```
 ---
-## 📦 Estruturas de Dados Utilizadas
+## Estruturas de Dados Utilizadas
 
 ### `struct Pergunta`
 ```c
@@ -74,7 +74,7 @@ typedef enum {
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Menu inicial com opções de jogar ou sair
 - Leitura automática de arquivos de perguntas
@@ -85,7 +85,7 @@ typedef enum {
 
 ---
 
-## 📄 Licença
+## Licença
 
 Projeto acadêmico desenvolvido para fins de aprendizado e avaliação na disciplina de Algoritmos e Programação Estruturada.
 
