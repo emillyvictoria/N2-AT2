@@ -1,11 +1,11 @@
-Qual é o resultado de 10 / 3 em C?
+Qual e o resultado de 10 / 3 em C?
 A) 3.33
 B) 3
 C) 3.0
 D) erro
 RESPOSTA:B
 
-Qual é a finalidade do operador sizeof?
+Qual e a finalidade do operador sizeof?
 A) Comparar
 B) Alocar
 C) Medir tamanho
@@ -13,8 +13,8 @@ D) Somar
 RESPOSTA:C
 
 Qual o significado de Structs?
-A) Um tipo de dado que permite repetir blocos de código.
+A) Um tipo de dado que permite repetir blocos de codigo.
 B) Um comando usado para imprimir valores na tela.
 C) Uma estrutura de controle condicional como if ou switch.
-D) Coleção de dados de tipos diferentes
+D) Colecao de dados de tipos diferentes
 RESPOSTA:D
