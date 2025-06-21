@@ -1,19 +1,19 @@
-Como as operações são executadas em C?
+Como as operacoes sao executadas em C?
 A) De forma sequencial
 B) De forma condicional
 C) De forma iterativa
 D) De acordo com a prioridade de operadores
 RESPOSTA:D
 
-Qual representação binária do número 10?
+Qual representacao binaria do numero 10?
 A) 1001
 B) 1010
 C) 1100
 D) 1111
 RESPOSTA:B
 
-Como podemos alterar o valor de uma variável em C?
-A) Usando atribuição
+Como podemos alterar o valor de uma variavel em C?
+A) Usando atribuicao
 B) Usando entrada de dados
 C) Usando o operador '=='
 D) Usando incrementos de loop
