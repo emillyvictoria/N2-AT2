@@ -8,13 +8,6 @@
 #define MAX_NIVEIS 5
 #define TAM_LINHA 512
 
-// Enum para menu futuro (caso deseje expandir)
-typedef enum {
-    JOGAR = 1,
-    SAIR
-} OpcaoMenu;
-
-// Struct para representar cada pergunta
 typedef struct {
     char* texto;
     char** alternativas;
@@ -22,13 +15,11 @@ typedef struct {
     int num_alternativas;
 } Pergunta;
 
-// Struct para um nível com perguntas
 typedef struct {
     Pergunta* perguntas;
     int num_perguntas;
 } Nivel;
 
-// Função para ler todas as perguntas de um arquivo e preencher a struct Nivel
 Nivel carregar_perguntas_do_arquivo(const char* nome_arquivo) {
     Nivel nivel;
     nivel.num_perguntas = 0;
@@ -42,7 +33,7 @@ Nivel carregar_perguntas_do_arquivo(const char* nome_arquivo) {
 
     char linha[TAM_LINHA];
     while (fgets(linha, sizeof(linha), arquivo)) {
-        if (linha[0] == '\n') continue; // ignora linhas em branco
+        if (linha[0] == '\n') continue; 
 
         Pergunta p;
         p.texto = strdup(linha);
