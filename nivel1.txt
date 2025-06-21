@@ -1,0 +1,20 @@
+Qual é o tamanho de uma variável do tipo int em C?
+A) 1 byte
+B) 2 bytes
+C) 4 bytes
+D) 8 bytes
+RESPOSTA:C
+
+O que significa o espaço ocupado por uma variável na memória?
+A) Tamanho da variável
+B) Endereço de memória
+C) Tipo de dado
+D) Nome da variável
+RESPOSTA:A
+
+Quais operadores podem ser usados com uma variável do tipo float?
+A) +, -, *, /
+B) +, -, /, %
+C) +, *, /
+D) +, -, *, %, &&
+RESPOSTA:A
